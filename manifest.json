@@ -1,7 +1,7 @@
 {
   "name": "Lesson Planner",
   "short_name": "Planner",
-  "start_url": "./lessonplanner.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f3f6fb",
   "theme_color": "#2563eb",
