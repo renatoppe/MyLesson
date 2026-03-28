@@ -1,7 +1,7 @@
 const CACHE_NAME = "lessonplanner-pwa-v1";
 const ASSETS_TO_CACHE = [
   "./",
-  "./lessonplanner.html",
+  "./index.html",
   "./manifest.json"
 ];
 
