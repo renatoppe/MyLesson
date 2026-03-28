@@ -44,7 +44,7 @@ self.addEventListener("fetch", (event) => {
 
           return networkResponse;
         })
-        .catch(() => caches.match("./lessonplanner.html"));
+        .catch(() => caches.match("./index.html"));
     })
   );
 });
